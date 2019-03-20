@@ -1,1 +1,1 @@
-"# StarSeize" 
+# StarSeize
